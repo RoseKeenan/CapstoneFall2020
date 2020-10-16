@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    padding: 3%;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.wrapper {
+    background-color: white;
+}
+
+.navigation {
+    color: white;
+    padding: 1%;
+    padding-left: 5%;
+}
+
+a:link {
+    color: palevioletred;
+}
+
+a:hover {
+    color: pink;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#footer {
+    background-color: #fcdce1;
+    height: 5%;
+    padding: 1%;
+    margin-top: 2%;
+}
+
+hr {
+    margin-bottom: 5%;
+}
+
+.white-link {
+    color: white !important;
+}
